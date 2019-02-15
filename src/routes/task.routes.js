@@ -1,0 +1,1 @@
+/* CRUD urls to use with the front */
